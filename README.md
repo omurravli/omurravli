@@ -10,6 +10,13 @@ I'm a developer who builds mostly with **Python**, and I'm exploring **mobile de
 
 ![Skills](https://skillicons.dev/icons?i=flutter,git,github,githubactions,vscode,bash,latex,md&perline=8)
 
+**GitHub Stats**
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=omurravli&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="omurravli's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omurravli&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omurravli&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+
 **Connect with me**
 
 <p align="left">
